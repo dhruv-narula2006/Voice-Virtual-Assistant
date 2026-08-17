@@ -1,3 +1,5 @@
 elevenlabs==2.62.0
 python-dotenv>=1.0.0
 PyAudio>=0.2.14
+requests
+ddgs
